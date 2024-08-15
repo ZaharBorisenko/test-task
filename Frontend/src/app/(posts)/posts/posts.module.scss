@@ -1,0 +1,11 @@
+.containerGrid {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.containerPagination {
+  display: flex;
+  justify-content: center;
+}

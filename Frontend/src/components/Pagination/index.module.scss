@@ -1,0 +1,20 @@
+.pagination {
+  margin: 2rem 0;
+}
+.button {
+  border-radius: 1rem;
+  background-color: orange;
+  padding: 1rem;
+}
+
+.active {
+  background-color: red;
+}
+.default {
+  background-color: gray;
+}
+.pageNumber {
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: 0 5px;
+}
